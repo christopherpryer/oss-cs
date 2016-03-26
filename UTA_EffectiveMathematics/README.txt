@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for Uinversity of Texas at Austin's Effective Thinking Through Mathematics
+This will be the repository that will hold all of my work for Uinversity of Texas at Austin's Effective Thinking Through Mathematics

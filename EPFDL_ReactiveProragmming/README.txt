@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for École Polytechnique Fédérale de Lausanne's Principles of Reactive Programming
+This will be the repository that will hold all of my work for École Polytechnique Fédérale de Lausanne's Principles of Reactive Programming

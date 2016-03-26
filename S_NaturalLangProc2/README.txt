@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for Stanford's Natural Language Processing
+This will be the repository that will hold all of my work for Stanford's Natural Language Processing

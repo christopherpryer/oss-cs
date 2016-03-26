@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for University of Illinois at LC's Cloud Computing Specialization
+This will be the repository that will hold all of my work for University of Illinois at LC's Cloud Computing Specialization

@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for Delft University of Technology's Introduction to Functional Programming
+This will be the repository that will hold all of my work for Delft University of Technology's Introduction to Functional Programming

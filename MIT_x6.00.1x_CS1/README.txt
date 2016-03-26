@@ -1,1 +1,1 @@
-This will be the repository that will hold all of me work for MIT's Introduction to Computer Science and Programming Using Python
+This will be the repository that will hold all of my work for MIT's Introduction to Computer Science and Programming Using Python
