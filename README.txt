@@ -14,10 +14,10 @@ commit to Open Source Society University's Computer Science program and enough f
 at Rowan University.
 
 This repository and generally the project this leads to are both still being constructed. Due to how busy I
-have been this semester, I don't plan to make serious contributions and configure the program to meet my needs
-until the summer. But over the summer I will begin to build this up. Also the information this would host will
-be linked to OSS University's student repo as well as feed an application I hope to develop soon. Until then
-enjoy checking out the progress!
+have been this semester, I don't plan to make serious contributions and configure the program to meet my
+needs until the summer. But over the summer I will begin to build this up. Also the information this would
+host will be linked to OSS University's student repo as well as feed an application I hope to develop soon.
+Until then enjoy checking out the progress!
 
 
 ~~some courses may change~~
