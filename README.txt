@@ -9,7 +9,7 @@ Java course [pending link/reference] that I would end up completing with a few s
 Actually it was more than a month of free time I would allocate for more studies. I ended up veering off
 into the basics of web development and design. I learned languages like HTML5, CSS3, and started to try out
 some JavaScript by the end of my Fall 2015 semester. Over the winter I spent time looking into resources
-andresearching my options. Around the time the Spring semester of 2016 began, I made the decision to
+and researching my options. Around the time the Spring semester of 2016 began, I made the decision to
 commit to Open Source Society University's Computer Science program and enough for a minor in Mathematics
 at Rowan University.
 
