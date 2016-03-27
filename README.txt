@@ -4,7 +4,7 @@ My name is Chris Pryer and I've been working on my Computer Science studies for 
 to my Open Source Society University coordinated studies for CS, I also study Mathematics and Management
 Information Systems at Rowan University. I began my programming studies at the beginning of my 2015 summer;
 so around may 10th. Realistically, after a few weeks of putting together a plan and organizing information,
-I had not started programming and coordinated my efforts until early June. I began with an Introduction to
+I had not started programming and coordinating my efforts until early June. I began with an Introduction to
 Java course [pending link/reference] that I would end up completing with a few solid weeks of summer left.
 Actually it was more than a month of free time I would allocate for more studies. I ended up veering off
 into the basics of web development and design. I learned languages like HTML5, CSS3, and started to try out
