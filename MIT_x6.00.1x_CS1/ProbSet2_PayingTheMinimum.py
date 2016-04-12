@@ -65,7 +65,7 @@ debt. Pretty depressing!
 def compound_balance(b1, r, p1):    # optimize this
     b1 += b1 * r
     b1 += b1 * p1
-    return b1, r, p1
+    return b1
 
 
 def calculate_balance():
