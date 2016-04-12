@@ -1,6 +1,18 @@
 # coding=utf-8
 """
 
+-----Problem 2: PAYING THE DEBT OFF IN 1 YEAR-----
+Now write a program that calculates the minimum fixed monthly payment needed in
+order pay off a credit card balance within 12 months. By a fixed monthly payment,
+we mean a single number which does not change each month, but instead is a
+constant amount that will be paid each month.
+
+In this problem, we will not be dealing with a minimum monthly payment rate.
+
+The following variables contain values as described below:
+balance - the outstanding balance on the credit card
+annualInterestRate - annual interest rate as a decimal
+
 Each month, a credit card statement will come with the option for you to pay a minimum amount of your charge, usually 2%
 of the balance due. However, the credit card company earns money by charging interest on the balance that you don't pay.
 So even if you pay credit card payments on time, interest is still accruing on the outstanding balance. Say you've made
@@ -47,17 +59,6 @@ You can see that a lot of your payment is going to cover interest, and if you wo
 that after a year, you will have paid $1165.63 and yet you will still owe $4691.11 on what was originally a $5000.00
 debt. Pretty depressing!
 
------Problem 2: PAYING THE DEBT OFF IN 1 YEAR-----
-Now write a program that calculates the minimum fixed monthly payment needed in
-order pay off a credit card balance within 12 months. By a fixed monthly payment,
-we mean a single number which does not change each month, but instead is a
-constant amount that will be paid each month.
-
-In this problem, we will not be dealing with a minimum monthly payment rate.
-
-The following variables contain values as described below:
-balance - the outstanding balance on the credit card
-annualInterestRate - annual interest rate as a decimal
 
 """
 

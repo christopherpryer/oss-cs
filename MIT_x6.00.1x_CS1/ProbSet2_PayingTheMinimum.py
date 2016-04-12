@@ -1,6 +1,17 @@
 # coding=utf-8
 """
 
+-----Problem 1: PAYING THE MIN-----
+Write a program to calculate the credit card balance after one year
+if a person only pays the minimum monthly payment required by the credit
+card company each month.
+
+The following variables contain values as described below:
+balance - the outstanding balance on the credit card
+annualInterestRate - annual interest rate as a decimal
+monthlyPaymentRate - minimum monthly payment rate as a decimal
+
+
 Each month, a credit card statement will come with the option for you to pay a minimum amount of your charge, usually 2%
 of the balance due. However, the credit card company earns money by charging interest on the balance that you don't pay.
 So even if you pay credit card payments on time, interest is still accruing on the outstanding balance. Say you've made
@@ -47,20 +58,20 @@ You can see that a lot of your payment is going to cover interest, and if you wo
 that after a year, you will have paid $1165.63 and yet you will still owe $4691.11 on what was originally a $5000.00
 debt. Pretty depressing!
 
------Problem 1: PAYING THE MIN-----
-Write a program to calculate the credit card balance after one year
-if a person only pays the minimum monthly payment required by the credit
-card company each month.
-
-The following variables contain values as described below:
-balance - the outstanding balance on the credit card
-annualInterestRate - annual interest rate as a decimal
-monthlyPaymentRate - minimum monthly payment rate as a decimal
 
 """
 
+balance = 0
+annualInterestRate = 0.08
+monthlyPaymentRate = 0.02
 
 
+def compound_balance(b1, r, p1):    # optimize this
+    b1 += b1 * r
+    b1 += b1 * p1
+    return b1, r, p1
 
 
-
+def calculate(balance, annual_interest_rate, monthly_payment_rate):
+    new_balance = compound_balance(balance, annual_interest_rate, monthly_payment_rate)
+    return new_balance
