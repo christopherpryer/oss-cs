@@ -62,17 +62,17 @@ debt. Pretty depressing!
 """
 
 
-def compound_balance(b1, r, p1):    # optimize this
+def compound_balance(b1, r, p):    # optimize this
+    b1 -= b1 * p
     b1 += b1 * r
-    b1 += b1 * p1
     return b1
 
 
 def calculate_balance():
-    balance = 0
+    balance = 10000.0    # not included
     annual_interest_rate = 0.08
     monthly_payment_rate = 0.02
     new_balance = compound_balance(balance, annual_interest_rate, monthly_payment_rate)
     return new_balance
 
-calculate_balance()
+print calculate_balance()
