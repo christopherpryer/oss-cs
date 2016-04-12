@@ -62,3 +62,23 @@ debt. Pretty depressing!
 
 """
 
+# unfinished 4/12/16 -- do optimization for minimum fixed payment (below will change)
+def compound_beginning(b0, r):
+    b0 += b0*r
+    return b0
+
+
+def calculate_max(b0, r, t):
+    for i in range(1, t):
+        maximum_annual = compound_beginning(b0, r)
+        return maximum_annual
+
+
+beginning_balance = 10000.0    # not included
+rate = 0.08
+time = 12.0
+next_month_balance = 0.0
+
+
+
+
